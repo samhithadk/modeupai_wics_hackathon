@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Database
+trends.db
+
+# OS
+.DS_Store
+
+# Models / artifacts
+models/
