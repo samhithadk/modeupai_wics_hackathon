@@ -13,7 +13,6 @@ ModeUp AI is an AI-powered trend discovery platform that detects emerging topics
 - Google News (SerpAPI)
 - Google Search (related queries + organic titles)
 - YouTube (videos + Shorts via SerpAPI)
-- Twitter/X (recent search)
 - Anthropic Claude (topic extraction + category validation)
 
 ## Trend Scoring (0–100)
