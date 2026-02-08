@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+tweepy
+google-search-results
+anthropic
+resend
+apscheduler
+python-dotenv
+plotly
